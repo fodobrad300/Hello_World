@@ -31,7 +31,7 @@ namespace Part_1
             //Space
             Console.WriteLine();
 
-            //Movie Contains 'the', add space after
+            //Movie Contains 'the', add space after.
             favMovie.Contains("the");
             Console.WriteLine();
 
